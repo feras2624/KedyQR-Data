@@ -73,43 +73,11 @@
       "image": "assets/items/placeholder.jpg"
     },
     {
-      "id": "item-double-espresso",
-      "category": "cat-hot-coffee",
-      "name": "Double Espresso",
-      "description": "İki shot espresso.",
-      "price": 160,
-      "image": "assets/items/placeholder.jpg"
-    },
-    {
-      "id": "item-americano",
-      "category": "cat-hot-coffee",
-      "name": "Americano",
-      "description": "Espresso ve sıcak su ile hazırlanır.",
-      "price": 150,
-      "image": "assets/items/placeholder.jpg"
-    },
-    {
       "id": "item-latte",
       "category": "cat-hot-coffee",
       "name": "Latte",
       "description": "Espresso ve buharla ısıtılmış süt.",
       "price": 180,
-      "image": "assets/items/placeholder.jpg"
-    },
-    {
-      "id": "item-cappuccino",
-      "category": "cat-hot-coffee",
-      "name": "Cappuccino",
-      "description": "Espresso, süt ve süt köpüğü.",
-      "price": 180,
-      "image": "assets/items/placeholder.jpg"
-    },
-    {
-      "id": "item-mocha",
-      "category": "cat-hot-coffee",
-      "name": "Mocha",
-      "description": "Çikolata, espresso ve süt.",
-      "price": 195,
       "image": "assets/items/placeholder.jpg"
     },
 
@@ -129,14 +97,7 @@
       "price": 190,
       "image": "assets/items/placeholder.jpg"
     },
-    {
-      "id": "item-frappe",
-      "category": "cat-cold-coffee",
-      "name": "Frappe",
-      "description": "Buzlu kahve karışımı.",
-      "price": 210,
-      "image": "assets/items/placeholder.jpg"
-    },
+
 
     {
       "id": "item-cay",
