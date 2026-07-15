@@ -1,6 +1,5 @@
 {
   "version": 1,
-
   "info": {
     "name": "Demo Cafe",
     "description": "Kahve • Kahvaltı • Tatlı",
@@ -10,12 +9,10 @@
     "logo": "assets/logo.png",
     "cover": "assets/cover.jpg"
   },
-
   "theme": {
     "template": "luxury",
     "palette": "dark"
   },
-
   "categories": [
     {
       "id": "cat-hot-coffee",
@@ -54,7 +51,6 @@
       "name": "Soğuk İçecekler"
     }
   ],
-
   "items": [
     {
       "id": "item-turk-kahvesi",
@@ -62,7 +58,7 @@
       "name": "Türk Kahvesi",
       "description": "Geleneksel yöntemle hazırlanan bol köpüklü Türk kahvesi.",
       "price": 90,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/b94d3a32-61e5-4846-ac04-16815c11364f.webp"
     },
     {
       "id": "item-espresso",
@@ -70,23 +66,7 @@
       "name": "Espresso",
       "description": "Yoğun aromalı tek shot espresso.",
       "price": 120,
-      "image": "assets/items/placeholder.jpg"
-    },
-    {
-      "id": "item-double-espresso",
-      "category": "cat-hot-coffee",
-      "name": "Double Espresso",
-      "description": "İki shot espresso.",
-      "price": 160,
-      "image": "assets/items/placeholder.jpg"
-    },
-    {
-      "id": "item-americano",
-      "category": "cat-hot-coffee",
-      "name": "Americano",
-      "description": "Espresso ve sıcak su ile hazırlanır.",
-      "price": 150,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/9bf24281-75ab-43cb-8e51-725c429147ad.webp"
     },
     {
       "id": "item-latte",
@@ -94,32 +74,15 @@
       "name": "Latte",
       "description": "Espresso ve buharla ısıtılmış süt.",
       "price": 180,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/d7bb4a44-6a57-4645-a593-02d410b5bd6a.webp"
     },
-    {
-      "id": "item-cappuccino",
-      "category": "cat-hot-coffee",
-      "name": "Cappuccino",
-      "description": "Espresso, süt ve süt köpüğü.",
-      "price": 180,
-      "image": "assets/items/placeholder.jpg"
-    },
-    {
-      "id": "item-mocha",
-      "category": "cat-hot-coffee",
-      "name": "Mocha",
-      "description": "Çikolata, espresso ve süt.",
-      "price": 195,
-      "image": "assets/items/placeholder.jpg"
-    },
-
     {
       "id": "item-iced-americano",
       "category": "cat-cold-coffee",
       "name": "Ice Americano",
       "description": "Buz üzerinde servis edilen Americano.",
       "price": 170,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/c64893ea-8770-4f62-bacb-2d7e4b04b825.webp"
     },
     {
       "id": "item-iced-latte",
@@ -127,24 +90,15 @@
       "name": "Ice Latte",
       "description": "Soğuk süt ve espresso.",
       "price": 190,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/e19b3475-849e-42af-97d1-1ca00599699e.webp"
     },
-    {
-      "id": "item-frappe",
-      "category": "cat-cold-coffee",
-      "name": "Frappe",
-      "description": "Buzlu kahve karışımı.",
-      "price": 210,
-      "image": "assets/items/placeholder.jpg"
-    },
-
     {
       "id": "item-cay",
       "category": "cat-tea",
       "name": "Çay",
       "description": "Demleme Türk çayı.",
       "price": 40,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/07e6dbfe-fe10-417b-b23d-6c493dea667d.webp"
     },
     {
       "id": "item-yesil-cay",
@@ -152,7 +106,7 @@
       "name": "Yeşil Çay",
       "description": "Doğal yeşil çay.",
       "price": 75,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/293df0d3-26d7-4c44-b0b1-27a423bcecc6.webp"
     },
     {
       "id": "item-ihlamur",
@@ -160,16 +114,15 @@
       "name": "Ihlamur",
       "description": "Sıcak bitki çayı.",
       "price": 80,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/0b76b10d-5ae3-48a5-9045-8c5be8725727.webp"
     },
-
     {
       "id": "item-serpme",
       "category": "cat-breakfast",
       "name": "Serpme Kahvaltı",
       "description": "Peynir çeşitleri, zeytin, bal, tereyağı, reçel, yumurta ve sınırsız çay.",
       "price": 480,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/956ac3fd-5227-41dc-b88c-a1f3fac18ac7.webp"
     },
     {
       "id": "item-menemen",
@@ -177,16 +130,15 @@
       "name": "Menemen",
       "description": "Domates, biber ve yumurta ile hazırlanır.",
       "price": 210,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/ac4f43b2-acf1-4535-af6f-b7760c6e0abe.webp"
     },
-
     {
       "id": "item-karisik-tost",
       "category": "cat-toast",
       "name": "Karışık Tost",
       "description": "Kaşar peyniri ve sucuk ile hazırlanır.",
       "price": 180,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/36911876-8e2a-4ff8-9b6f-0b83541b314e.webp"
     },
     {
       "id": "item-club",
@@ -194,33 +146,15 @@
       "name": "Club Sandviç",
       "description": "Tavuk, marul, domates ve patates kızartması ile servis edilir.",
       "price": 320,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/eae80f0e-34f4-424f-b340-4dc697da9dd4.webp"
     },
-
     {
       "id": "item-alfredo",
       "category": "cat-pasta",
       "name": "Tavuklu Alfredo",
       "description": "Kremalı sos ve tavuk ile hazırlanır.",
       "price": 420,
-      "image": "assets/items/placeholder.jpg"
-    },
-    {
-      "id": "item-bolognese",
-      "category": "cat-pasta",
-      "name": "Bolonez Makarna",
-      "description": "Kıymalı domates sosu ile servis edilir.",
-      "price": 390,
-      "image": "assets/items/placeholder.jpg"
-    },
-
-    {
-      "id": "item-hamburger",
-      "category": "cat-burger",
-      "name": "Hamburger",
-      "description": "Izgara köfte, marul, domates ve patates kızartması.",
-      "price": 450,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/58b478d5-3ae4-45b0-a5d5-05e095a062d6.webp"
     },
     {
       "id": "item-cheeseburger",
@@ -228,16 +162,15 @@
       "name": "Cheeseburger",
       "description": "Cheddar peyniri ile hazırlanır.",
       "price": 480,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/33669435-c0c3-4185-80b4-369d3d185e06.webp"
     },
-
     {
       "id": "item-cheesecake",
       "category": "cat-dessert",
       "name": "Cheesecake",
       "description": "Frambuaz soslu cheesecake.",
       "price": 220,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/a0c440da-7381-42f2-9792-f407f5cce0f9.webp"
     },
     {
       "id": "item-brownie",
@@ -245,7 +178,7 @@
       "name": "Brownie",
       "description": "Sıcak çikolatalı brownie.",
       "price": 210,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/0f45ab29-ba23-4a49-a0a2-d9435bb88738.webp"
     },
     {
       "id": "item-san-sebastian",
@@ -253,16 +186,15 @@
       "name": "San Sebastian",
       "description": "Belçika çikolata sosu ile servis edilir.",
       "price": 260,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/ebe6a349-9e71-4b09-ab5b-573bba48800f.webp"
     },
-
     {
       "id": "item-kola",
       "category": "cat-drinks",
       "name": "Kola",
       "description": "330 ml.",
       "price": 90,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/5794fbcd-3b84-45f2-9e90-85d3013c2da2.webp"
     },
     {
       "id": "item-portakal",
@@ -270,7 +202,7 @@
       "name": "Taze Sıkma Portakal Suyu",
       "description": "Günlük taze portakallardan hazırlanır.",
       "price": 160,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/c4e9c008-369d-4b0e-a92e-ef6236278316.webp"
     },
     {
       "id": "item-su",
@@ -278,7 +210,7 @@
       "name": "Su",
       "description": "500 ml doğal kaynak suyu.",
       "price": 25,
-      "image": "assets/items/placeholder.jpg"
+      "image": "assets/items/433b8c20-a4e9-4fdb-b882-b8a93555989e.webp"
     }
   ]
 }
